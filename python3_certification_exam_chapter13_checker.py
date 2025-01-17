@@ -1,3 +1,6 @@
+# 徹底攻略 Python3 エンジニア認定 [基礎試験] 問題集 
+# 第13章 総仕上げ問題の正誤結果表示プログラムです。
+
 def quiz_program():
     # 指定された正解
     correct_answers = [
