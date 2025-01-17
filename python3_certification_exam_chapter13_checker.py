@@ -1,5 +1,6 @@
-# 徹底攻略 Python3 エンジニア認定 [基礎試験] 問題集 
-# 第13章 総仕上げ問題の正誤結果表示プログラムです。
+# 徹底攻略 Python3 エンジニア認定 [基礎試験] 問題集 第13章 総仕上げ問題の正誤結果表示プログラムです。
+# Perplexityを使ってコーディングを行いました。プロンプト履歴は下記の通りです。
+# https://www.perplexity.ai/search/pythonte-she-wen-shu-ha40wen-a-tj2Dqz8PQOCz_WqLUQs68g
 
 def quiz_program():
     # 指定された正解
